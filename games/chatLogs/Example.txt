@@ -1,0 +1,108 @@
+<span>The_Overseer [ Ventosilla ]</span> : yo 
+<span style='color: blue;'>guest [ Storyteller ] : hey  
+<span style='color: blue;'>guest [ Storyteller ] : MAP UPDATED
+<span style='color: blue;'>guest [ Storyteller ] : MAP UPDATED
+<span>The_Overseer [ Ventosilla ]</span> : Checking 
+<span style='color: blue;'>guest [ Storyteller ] : check verified 
+<span>The_Overseer [ Ventosilla ]</span> : Excellent! 
+The_Overseer [ Ventosilla ] : <span style='color: red;'>[HIT] LEFT CALF
+The_Overseer [ Ventosilla ] : <span style='color: red;'>[%] 85
+The_Overseer [ Ventosilla ] : <span style='color: red;'>[2D10] 17
+<span style='color: blue;'>guest [ Storyteller ] : [%] 68
+<span style='color: blue;'>guest [ Storyteller ] : [HIT] LEFT BICEP
+<span style='color: blue;'>guest [ Storyteller ] : welcome back 
+<span>The_Overseer [ Ventosilla ]</span> : Haha 
+<span>The_Overseer [ Ventosilla ]</span> : Yes! 
+<span>The_Overseer [ Ventosilla ]</span> : Hey hey 
+<span style='color: blue;'>guest [ Storyteller ] : heya 
+<span>The_Overseer [ Ventosilla ]</span> : Hiya 
+<span>The_Overseer [ Ventosilla ]</span> : Does Voice work? 
+<span>The_Overseer [ Ventosilla ]</span> : Phuc yea Voice works! 
+<span style='color: blue;'>guest [ Storyteller ] : most excellent! 
+<span style='color: blue;'>guest [ Storyteller ] : isnt it amazing that were sitting next to each other, and this message travelled across the globe  
+<span style='color: blue;'>guest [ Storyteller ] : to deliver it to your hands! 
+<span>Kboo [ Josie ]</span> : And back to you 
+<span>Kboo [ Josie ]</span> :  OK boo  
+<span style='color: blue;'>guest [ Storyteller ] : its sweeeeet! 
+<span style='color: blue;'>guest [ Storyteller ] : Ok Josie, you are working for this family repairing their roof before hurricane season gets crazy 
+<span style='color: blue;'>guest [ Storyteller ] : Its been a lot of work scavenging roofing shingles 
+<span style='color: blue;'>guest [ Storyteller ] : fortunately youve found a few houses where the roof has already collapsed, problem is a lot of them 
+<span style='color: blue;'>guest [ Storyteller ] : are seriously damages 
+<span style='color: blue;'>guest [ Storyteller ] : Youve just had breakfast, its about 9:30 
+<span style='color: blue;'>guest [ Storyteller ] : How would you like to start your day? 
+<span style='color: blue;'>guest [ Storyteller ] : youre in a rural area currently...sometimes its miles to the next house and you have no gas 
+<span style='color: blue;'>guest [ Storyteller ] : youve got to figure somethin out soon cause the rains are already starting 
+Kboo [ Josie ] : <span style='color: red;'>[%] 38
+Kboo [ Josie ] : <span style='color: red;'>[%] 97
+Kboo [ Josie ] : <span style='color: red;'>[%] 45
+Kboo [ Josie ] : <span style='color: red;'>[%] 24
+Kboo [ Josie ] : <span style='color: red;'>[%] 71
+Kboo [ Josie ] : <span style='color: red;'>[%] 49
+Kboo [ Josie ] : <span style='color: red;'>[%] 19
+Kboo [ Josie ] : <span style='color: red;'>[%] 02
+Kboo [ Josie ] : <span style='color: red;'>[%] 57
+Kboo [ Josie ] : <span style='color: red;'>[%] 49
+Kboo [ Josie ] : <span style='color: red;'>[%] 51
+Kboo [ Josie ] : <span style='color: red;'>[%] 38
+Kboo [ Josie ] : <span style='color: red;'>[%] 87
+Kboo [ Josie ] : <span style='color: red;'>[%] 59
+Kboo [ Josie ] : <span style='color: red;'>[%] 36
+Kboo [ Josie ] : <span style='color: red;'>[%] 12
+Kboo [ Josie ] : <span style='color: red;'>[%] 39
+Kboo [ Josie ] : <span style='color: red;'>[%] 56
+Kboo [ Josie ] : <span style='color: red;'>[%] 64
+Kboo [ Josie ] : <span style='color: red;'>[%] 62
+Kboo [ Josie ] : <span style='color: red;'>[2D10] 8
+Kboo [ Josie ] : <span style='color: red;'>[%] 48
+Kboo [ Josie ] : <span style='color: red;'>[%] 78
+Kboo [ Josie ] : <span style='color: red;'>[%] 59
+Kboo [ Josie ] : <span style='color: red;'>[%] 42
+<span style='color: blue;'>guest [ Storyteller ] : pause 
+Kboo [ Josie ] : <span style='color: red;'>[%] 68
+Kboo [ Josie ] : <span style='color: red;'>[%] 74
+Kboo [ Josie ] : <span style='color: red;'>[%] 30
+Kboo [ Josie ] : <span style='color: red;'>[%] 79
+Kboo [ Josie ] : <span style='color: red;'>[%] 68
+<span>Kboo [ Josie ]</span> : Hey boo :) 
+<span>The_Overseer [ Ventosilla ]</span> : Hey 
+<span>The_Overseer [ Ventosilla ]</span> : Hey hey 
+<span>The_Overseer [ Ventosilla ]</span> : Da da 
+<span>The_Overseer [ Ventosilla ]</span> : Blah blah 
+<span>The_Overseer [ Ventosilla ]</span> : Blah blah blah 
+<span>The_Overseer [ Ventosilla ]</span> : Oh yeah? 
+<span>The_Overseer [ Ventosilla ]</span> : Oh yeah? 
+<span style='color: blue;'>The_Overseer [ Storyteller ] : La la la 
+<span style='color: blue;'>The_Overseer [ Storyteller ] : [%] 08
+<span>The_Overseer [ Ventosilla ]</span> : Hey 
+<span>The_Overseer [ Ventosilla ]</span> : So what are we doing? 
+<span>The_Overseer [ Ventosilla ]</span> : Who knows? 
+<span>The_Overseer [ Ventosilla ]</span> : K 
+<span>The_Overseer [ Ventosilla ]</span> : K  
+<span style='color: blue;'>guest [ Storyteller ] : undefined AWARDED 50 EXP
+<span style='color: blue;'>guest [ Storyteller ] :  EARNED 10 EXP
+<span style='color: blue;'>guest [ Storyteller ] :  EARNED 10 EXP
+<span style='color: blue;'>guest [ Storyteller ] : undefined EARNED 10 EXP
+<span style='color: blue;'>guest [ Storyteller ] : Josie EARNED 5 EXP
+<span style='color: blue;'>guest [ Storyteller ] : Josie EARNED 5 EXP
+<span style='color: blue;'>guest [ Storyteller ] : Josie EARNED 5 EXP
+<span style='color: blue;'>guest [ Storyteller ] : Josie EARNED 1 EXP
+<span style='color: blue;'>guest [ Storyteller ] : Josie gains 1 EXP
+<span style='color: blue;'>The_Overseer [ Storyteller ] : Josie ID Marks updated
+<span style='color: blue;'>The_Overseer [ Storyteller ] : Josie gains 4 EXP
+<span style='color: blue;'>The_Overseer [ Storyteller ] : Josie gains 4 EXP
+<span style='color: blue;'>guest [ Storyteller ] : lala 
+<span>The_Overseer [ Ventosilla ]</span> : KK 
+<span style='color: blue;'>guest [ Storyteller ] : Ventosilla gains 50 EXP
+<span style='color: blue;'>guest [ Storyteller ] : Ventosilla ID Marks updated
+<span style='color: blue;'>guest [ Storyteller ] : Ventosilla has died!
+<span style='color: blue;'>guest [ Storyteller ] : Ventosilla ID Marks updated
+<span style='color: blue;'>guest [ Storyteller ] : MAP UPDATED
+<span>The_Overseer [ Ventosilla ]</span> : Okay calm down 
+<span>The_Overseer [ Ventosilla ]</span> : Yo 
+<span style='color: blue;'>guest [ Storyteller ] : Josie ID Marks updated
+<span style='color: blue;'>guest [ Storyteller ] : Ventosilla ID Marks updated
+<span style='color: blue;'>guest [ Storyteller ] : Ventosilla ID Marks updated
+<span style='color: blue;'>guest [ Storyteller ] : Josie ID Marks updated
+<span style='color: blue;'>guest [ Storyteller ] : Ventosilla ID Marks updated
+<span style='color: blue;'>guest [ Storyteller ] : Ventosilla's ID Marks updated
+<span style='color: blue;'>guest [ Storyteller ] : Ventosilla gains -250 EXP
